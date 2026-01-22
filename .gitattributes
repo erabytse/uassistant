@@ -1,2 +1,39 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+menv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# LanceDB local storage (facultatif : tu peux aussi le versionner si tu veux un exemple)
+rememoir_db/
+*.lance/
+
+# Logs & temp
+*.log
+*.tmp
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Data (ne jamais versionner les données utilisateurs)
+data/
