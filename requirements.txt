@@ -1,0 +1,11 @@
+# Will be replaced by pyproject.toml in v1
+erabytse-rememoir>=0.1.2
+ollama
+customtkinter
+sounddevice
+numpy
+faster-whisper
+sentence-transformers
+PyPDF2
+openpyxl
+python-docx
